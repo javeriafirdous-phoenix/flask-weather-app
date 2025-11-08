@@ -4,12 +4,16 @@ A simple Flask web app that displays real-time weather for any city using the **
 
 ---
 
+## 🚀 Live Demo
+👉 [https://flask-weather-app-ha0b.onrender.com](https://flask-weather-app-ha0b.onrender.com)
+
+---
+
 ## 🧩 Features
 - Search weather by city name  
-- Displays temperature, weather description, and icon  
-- Integrates with OpenWeatherMap API  
-- Uses environment variables for API key security  
-
+- Displays temperature, description, and weather icon  
+- Uses Flask + Jinja2 + OpenWeatherMap API  
+- Secure API key management with `.env`
 ---
 
 ## 🛠️ Technologies Used
